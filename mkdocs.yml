@@ -1,0 +1,8 @@
+site_name: Bijan Rahnamai
+theme:
+  name: material
+extra:
+  generator: true
+markdown_extensions:
+  - attr_list
+  - md_in_html
