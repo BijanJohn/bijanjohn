@@ -4,6 +4,8 @@
 
 ## RHCSA
 
+![RHCSA](../assets/images/RHCSA.png){ align=left }
+
 I got my [RHCSA](https://www.credly.com/badges/796add3d-d3f4-4111-bbf6-b5514a8b9005) back in 2019 for the Red Hat Enterprise Linux 7 exam.
 This was one of the most challenging and fun certifications I have ever attempted, took me a few times to pass.
 It is a hands-on exam that really expects an administrator to have hands on keyboard skills to perform needed maintenance and troubleshooting of Centos.

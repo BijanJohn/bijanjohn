@@ -15,18 +15,9 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: index.md
-  - Engineering:
-      - Work Experience: engineering/engineering.md
-      - Certifications: engineering/certifications.md
-  - Art:
-      - poetry: art/poetry.md
-      - rapping: art/rapping.md
-      - freestyling: art/freestyling.md
   - Blog:
-      - Favorite Books: blog/books.md
-      - America's National Parks: blog/nps.md
-      - Texas State Parks: blog/texas-state-parks.md
-  - Dogs and Cats:
-      - pictures of my dog: animals/my-dog.md
-      - pictures of other's people's dogs: animals/other-dogs.md
+      - America's National Parks: blog/2022-07-15-National-Parks.md
+  - Engineering:
+      - Certifications: engineering/certifications.md
+  - Home:
+      - Home: index.md

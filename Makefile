@@ -1,3 +1,5 @@
+# git commit
+# make publish
 SHELL := /bin/bash
 GH_PAGE := bijanjohn.github.io
 
