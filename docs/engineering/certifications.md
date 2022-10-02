@@ -1,10 +1,14 @@
 # Certifications
 
-[Credly certification profile](https://www.credly.com/users/bijan-rahnamai)
+[Credly](https://www.credly.com/users/bijan-rahnamai) certification profile
+
+![Vader_unit_tests](../assets/images/vader_need_tests.png){ align=left }<br>
+<br>
+<br>
+<br>
+<br>
 
 ## RHCSA
-
-![RHCSA](../assets/images/RHCSA.png){ align=left }
 
 I got my [RHCSA](https://www.credly.com/badges/796add3d-d3f4-4111-bbf6-b5514a8b9005) back in 2019 for the Red Hat Enterprise Linux 7 exam.
 This was one of the most challenging and fun certifications I have ever attempted, took me a few times to pass.

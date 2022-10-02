@@ -9,6 +9,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Todo - 
 # add animals, art, books and state parks
 
+## [1.0.3] - 2022-10-01
+### Added
+- Philosophy - Software Delivery
+
+## [1.0.2] - 2022-07-16
+### Added
+
+- technical
+
 ## [1.0.1] - 2022-07-15
 ### Added
 - Skydiving - poetry, pictures and new order of nav
