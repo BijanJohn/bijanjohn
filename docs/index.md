@@ -21,20 +21,15 @@
 ## Software Delivery
 
 The thing that excites me most in my work is figuring out how to build and maintain better systems to delivery software updates.<br>
-These are 10 guiding principles I have been working on for some time.<br>
-I have validated these across engineers and managers and against the literature of Continuous Delivery and DevOps.<br>
-I took particular focus from The DevOps Handbook written by Jez Humbel, Gene Kim, John Willis and Patrick Debois as that book is what lit the fire of me wanting to dive into the deep end.<br>
-They are ordered from most important to least, all of which wouldn't be on this list would they not be a key component in operational and development excellence.<br>
 
-The delicate balance between having a rigid structure of elements needed to allow more flexible iterations of deployments.<br>
 Below is a Quote from the DevOps Handbook from a Case Study Highlighting the importance of understanding the changes that we make.<br>
 >In 2004, Gene Kim, Kevin Behr and George Spafford note that high-performing organizations recognize that<br>
 > 80% of all outages are caused by change<br>
 > and 80% of MTTR is spent trying to determine what changed.<br>
 
 ## 1. Automation at Scale
-Automation at Scale means when we know a fix is available, we are primarily focused on delivering that fix to All Customers.<br>
-Applying a specific minor update to an individual customer in an Adhoc way is also valuable, and a place for transformational Self Service however the Ultimate focus for every organization is Automation at Scale.<br>
+Automation at Scale means when we know a fix is available, we are primarily focused on delivering that fix to All Customers and Environments.<br>
+Applying a specific minor update to an individual customer in an Adhoc way is also valuable, and there is a place for transformational Self Service however the Ultimate focus for every organization is Automation at Scale.<br>
 Embracing Automation means that we will seek to eliminate as much Toil (manual work that is repeatable) to focus energy more closely on automation.
 
 ## 2. Standardization across Applications
@@ -51,10 +46,10 @@ By doing this, we shorten and amplify feedback loops so that we can see problems
 This allows us to quickly find and fix problems earlier in the software development life cycle, ideally long before they cause a catastrophic failure.<br>
 
 ## 4. Error Budgets
-Not all services are equally performant, some have a much older code base which is more large and complicated while others might be more green field and have less dependencies.<br>
-Services should be evaluated based on the number of issues that occur throughout the lifecycle of their release, customer impact is one of the most valuable measures to determine impact.<br>
+Not all services are equally performant, some have a much older code base which is more large and complicated while others might be more green field and have fewer dependencies.<br>
+Services should be evaluated based on the number of issues that occur throughout the lifecycle of their release, customer impact (outages/degradation of service) is one of the most valuable measures to determining impact.<br>
 By better understanding the risk and challenges with each service delivered (and by breaking down Monolithic apps into Microservices) we can provide better Gating as to which services will be released and which ones will require more work.<br>
-Error budgets area also a great way determine if Engineering should have a clear runway for new features or if code quality requires more robust testing.<br>
+Error budgets are also a great way determine if Engineering should have a clear runway for new features or if code quality requires more robust testing.<br>
 
 ## 5. Test in a Lower Environment First
 This one almost seems too obvious to be in the list, however one might be surprised how many Production services get deployed and run for customers without a lower environment first.<br>
