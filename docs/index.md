@@ -84,7 +84,7 @@ Jez Humble defines Continuous Deployment as the following.
 <br>
 > In addition to the above, when we are deploying good builds into production on a regular basis through self-service (being deployed by Dev or by Ops)—which typically means that we are deploying to production at least once per day per developer, or perhaps even automatically deploying every change a developer commits—this is when we are engaging in continuous deployment.
 <br>
-
+<br>
 
 ### Skydiving
 
