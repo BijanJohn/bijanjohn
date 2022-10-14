@@ -15,8 +15,8 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Blog:
-      - America's National Parks: blog/2022-07-15-National-Parks.md
+#  - Blog:
+#      - America's National Parks: blog/2022-07-15-National-Parks.md
   - Engineering:
       - Certifications: engineering/certifications.md
   - Home:
