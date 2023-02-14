@@ -9,6 +9,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Todo - 
 # add animals, art, books and state parks
 
+## [1.0.4] - 2022-12-29
+### Added
+- Learning from Failure
+
+
 ## [1.0.3] - 2022-10-01
 ### Added
 - Philosophy - Software Delivery

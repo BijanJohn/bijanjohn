@@ -7,18 +7,43 @@
 <br>
 <br>
 <br>
+<br>
 
-## RHCSA
+## AWS Certified DevOps Professional
 
-I got my [RHCSA](https://www.credly.com/badges/796add3d-d3f4-4111-bbf6-b5514a8b9005) back in 2019 for the Red Hat Enterprise Linux 7 exam.
-This was one of the most challenging and fun certifications I have ever attempted, took me a few times to pass.
-It is a hands-on exam that really expects an administrator to have hands on keyboard skills to perform needed maintenance and troubleshooting of Centos.
-It was in this certification that I fell in love with Linux and have only been happier since.
+This is my latest certification and likely my most difficult one that I have achieved, and potentially the most valuable.<br>
+The [DevOps Professional cert](https://www.credly.com/badges/13dbc33d-a127-4970-9caf-cd7c7eae657b) took me 2 attempts, 2 months apart.<br>
+If you are a DevOps engineer and using AWS, this is the certification for you. It provides real world examples of what a DevOps Engineer would need to do to be effective. 
 
-## AWS Cloud Practitioner
+## Jamf Certified Tech (Jamf 200) Course
 
-This was my first [cloud certification](https://www.credly.com/badges/aba08615-3d8e-4175-b6cd-cd8d7be82691) in 2019, 
-and it was a good intro into the Cloud Computing model, why it is important and a general survey of AWS services.
+I recently took a course to better understand how my company uses Jamf as the MDM (Mobile Device Management) software for updating the tvOS devices we use at Atmosphere.<br>
+It was a good course and the exam was part multiple choice and part hands on.<br>
+I would recommend this for people in Corporate IT who may have to manage Macbooks for the company or if someone has a unique case like we do, pushing updates to Ipads, iOS devices or tvOS.<br>
+
+## AWS Certified Solutions Architect Associate
+
+I received this certification in March 2022. The [Solutions Architect cert](https://www.credly.com/badges/fec720eb-2bf0-4b8b-acc5-70eb8b1e8032) wasn't too challenging, 
+but it was enlightening to see how expansive the AWS catalogue is as well as how sophisticated they build their products.
+
+## Hashi Consul Associate
+
+In 2021, I got the [Consul Certification](https://www.credly.com/badges/52032aa5-91b3-4f33-bfd3-3cc49e2d7fc2) and completed the 3 associate level certs that Hashi offered at the time.
+My company uses Consul heavily for Service Discovery (and DNS) and it is a crucial piece to how we evaluate service health in our distributed clusters.
+I can't recommend this technology enough as it is incredibly powerful and able to help manage the complicated pieces of having a service catalog.
+
+## Hashi Vault Associate
+
+When you run distributed systems you are going to need a secure and reliable secrets store and that is what Vault provides.
+At the end of 2020 I got my [Vault Certification](https://www.credly.com/badges/af5a6724-a774-4849-8484-dc8dd5b800e7) and was enlightened as to how flexible and robust the Vault tool is.
+There are many secrets engines with Vault for many use cases, after taking this cert you definitely learn and understand how it can be used.
+
+## Hashi Terraform Associate
+
+Hashicorp makes incredible products and my company uses their tools heavily. In 2020 I decided to get my 
+[Terraform Certification](https://www.credly.com/badges/a31fc9c2-aa1b-4a4d-9d8b-563ff6ee0a31).
+IaC (Infrastructure as Code) is one of the most important principles of Dev Ops that I have learned and practiced.
+Using technology like this allows for immutable infrastructure, configuration as code, environments without config drift and automation at scale.
 
 ## RHCSAA
 
@@ -28,26 +53,14 @@ It exposed me to a DSL (domain specific language) that gave me the skills to wri
 I used Ansible for the next few years to apply fixes at mass scale on servers to improve availability and quality in the hosting org of my company at the time.
 After obtaining this cert I went to Atlanta for Ansiblefest, which was my first tech conference and learned so much.
 
-## Hashi Terraform Associate
+## AWS Cloud Practitioner
 
-Hashicorp makes incredible products and my company uses their tools heavily. In 2020 I decided to get my 
-[Terraform Certification](https://www.credly.com/badges/a31fc9c2-aa1b-4a4d-9d8b-563ff6ee0a31).
-IaC (Infrastructure as Code) is one of the most important principles of Dev Ops that I have learned and practiced.
-Using technology like this allows for immutable infrastructure, configuration as code, environments without config drift and automation at scale.
+This was my first [cloud certification](https://www.credly.com/badges/aba08615-3d8e-4175-b6cd-cd8d7be82691) in 2019, 
+and it was a good intro into the Cloud Computing model, why it is important and a general survey of AWS services.
 
-## Hashi Vault Associate
+## RHCSA
 
-When you run distributed systems you are going to need a secure and reliable secrets store and that is what Vault provides.
-At the end of 2020 I got my [Vault Certification](https://www.credly.com/badges/af5a6724-a774-4849-8484-dc8dd5b800e7) and was enlightened as to how flexible and robust the Vault tool is.
-There are many secrets engines with Vault for many use cases, after taking this cert you definitely learn and understand how it can be used.
-
-## Hashi Consul Associate
-
-In 2021, I got the [Consul Certification](https://www.credly.com/badges/52032aa5-91b3-4f33-bfd3-3cc49e2d7fc2) and completed the 3 associate level certs that Hashi offered at the time.
-My company uses Consul heavily for Service Discovery (and DNS) and it is a crucial piece to how we evaluate service health in our distributed clusters.
-I can't recommend this technology enough as it is incredibly powerful and able to help manage the complicated pieces of having a service catalog.
-
-## AWS Certified Solutions Architect
-
-This is my latest certification that I have received this past year (2022). The [Solutions Architect cert](https://www.credly.com/badges/fec720eb-2bf0-4b8b-acc5-70eb8b1e8032) wasn't too challenging, 
-but it was enlightening to see how expansive the AWS catalogue is as well as how sophisticated they build their products.
+I got my [RHCSA](https://www.credly.com/badges/796add3d-d3f4-4111-bbf6-b5514a8b9005) back in 2019 for the Red Hat Enterprise Linux 7 exam.
+This was one of the most challenging and fun certifications I have ever attempted, took me a few times to pass.
+It is a hands-on exam that really expects an administrator to have hands on keyboard skills to perform needed maintenance and troubleshooting of Centos.
+It was in this certification that I fell in love with Linux and have only been happier since.
