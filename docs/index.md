@@ -1,5 +1,14 @@
-# Hello World
+# Software | Rapping | Knowledge
 
+## **My First Show**
+
+I'm taking a break from Software Engineering.
+
+Come see me perform Friday, August 11th 2023.<br>
+I will have my turntables/wax and be dropping my favorite Hip Hop tracks/raps/freestyles/poetry.<br>
+It is the 50th Anniversary of Hip Hop.<br>
+
+![bijanraps](assets/images/Bijanraps.jpg){ align=left }
 
 ## **Failure is just a stepping stone to success**
 
@@ -250,7 +259,7 @@ for it is the way<br>
 
 Howdy! You found me on the internet :), this is my personal website to share with the rest of the digital world.
 I am a first generation Persian (Iranian) American who grew up in Austin, Texas.
-My day job is working at [Atmosphere](https://www.atmosphere.tv/) as a Senior DevOps Engineer. I am a big fan of the following. 
+My day job was working at [Atmosphere](https://www.atmosphere.tv/) as a Senior DevOps Engineer. I am a big fan of the following. 
 
 * Hiking up Mountains
 * Meditation/Sauna/Cold Plunges/Yoga/Lifting Weights/Running/Float Tanks
@@ -262,4 +271,4 @@ I am looking forward to more updates to come.
 You can reach me via email here at bijan@bijanrahnamai.com<br>
 You can find my GitHub here at [https://github.com/BijanJohn](https://github.com/BijanJohn)<br>
 You can find my LinkedIn here at [https://www.linkedin.com/in/bijan-rahnamai/](https://www.linkedin.com/in/bijan-rahnamai/)<br>
-You can find my Instagram here [https://www.instagram.com/bee_szan/](https://github.com/BijanJohn)<br>
+You can find my Instagram here [https://www.instagram.com/bijanraps/](https://www.instagram.com/bijanraps/)<br>
