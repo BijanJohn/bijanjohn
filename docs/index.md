@@ -1,14 +1,16 @@
 # Software | Rapping | Knowledge
 
-## **My First Show**
+## **My First Show - Debut **
 
 I'm taking a break from Software Engineering.
 
-Come see me perform Friday, August 11th 2023.<br>
-I will have my turntables/wax and be dropping my favorite Hip Hop tracks/raps/freestyles/poetry.<br>
-It is the 50th Anniversary of Hip Hop.<br>
+I had my first show on Friday, August 11th 2023.<br>
+It was incredible, had my turntables/wax and dropped my favorite Hip Hop tracks/raps/freestyles/poetry.<br>
+The 50th Anniversary of Hip Hop was such a great experience in Austin. Big ups to Greg for putting me on for this show.<br>
 
-![bijanraps](assets/images/Bijanraps.jpg){ align=left }
+![bijan_performance_photo](assets/images/bijan_performance_photo.jpg){ align=left }
+
+![bijanraps](assets/images/Bijanraps.jpg){ align=center width="400" height="400"}
 
 ## **Failure is just a stepping stone to success**
 
