@@ -2,6 +2,9 @@ site_name: Bijan Rahnamai
 
 theme:
   name: material
+  favicon: assets/images/b-heart.png
+  palette:
+    primary: blue grey
   features:
     - navigation.instant
     - navigation.tracking
