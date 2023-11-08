@@ -19,4 +19,4 @@ You can find my GitHub here at [https://github.com/BijanJohn](https://github.com
 You can find my LinkedIn here at [https://www.linkedin.com/in/bijan-rahnamai/](https://www.linkedin.com/in/bijan-rahnamai/)<br>
 You can find my Instagram here [https://www.instagram.com/bijanraps/](https://www.instagram.com/bijanraps/)<br>
 
-The guy in the picture with me is [Thom the World Poet](http://thomworldpoet.blogspot.com/), and he is one of the greatest living American Poet, he too lives in Austin.<br> 
+The guy in the picture with me is [Thom the World Poet](http://thomworldpoet.blogspot.com/), and he is one of the greatest living American Poets, he too lives in Austin.<br> 
