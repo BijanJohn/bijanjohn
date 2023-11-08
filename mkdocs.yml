@@ -20,13 +20,13 @@ markdown_extensions:
 nav:
 #  - Blog:
 #      - America's National Parks: blog/2022-07-15-National-Parks.md
+  - Home: index.md
   - Art:
       - Shows: art/shows.md
+#      - Recorded Music: art/recorded_music.md
   - Engineering:
       - Certifications: engineering/certifications.md
       - Learning From Failures: engineering/learning_from_failures.md
       - Software Delivery: engineering/software_delivery.md
   - Cool Experiences:
       - Skydiving: blog/skydiving.md
-  - Home:
-      - Home: index.md
