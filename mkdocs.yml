@@ -24,9 +24,13 @@ nav:
   - Art:
       - Shows: art/shows.md
 #      - Recorded Music: art/recorded_music.md
+  - Websites I Manage:
+      - Austin Open Mic Poetry: websites_i_manage/austin_open_mic_poetry.md
+  - Books:
+      - Book Reviews: books/book-reviews.md
   - Engineering:
       - Certifications: engineering/certifications.md
       - Learning From Failures: engineering/learning_from_failures.md
       - Software Delivery: engineering/software_delivery.md
   - Cool Experiences:
-      - Skydiving: blog/skydiving.md
+      - Skydiving: cool_experiences/skydiving.md
