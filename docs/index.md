@@ -1,4 +1,4 @@
-# Rapping | Software | Knowledge
+# Poetry | Rapping | Knowledge
 
 ## About me
 
