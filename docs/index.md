@@ -7,7 +7,7 @@
 ### Love is all that is real
 
 Love is all that is real<br>
-it shows up in greetings cards and text messages<br>
+it shows up in greetings cards and poetry open mics<br>
 hugs, smiles and gathering with delicious food<br>
 when asking how to improve<br>
 use more love, it is what is true<br>
@@ -37,7 +37,7 @@ that Love is all that is real<br>
 
 Birthday wishes granted, Christmas packaging unwrapped<br>
 with poetry tape handling how we keep this love on tap<br>
-make shift, make the shift into making new shifts with position<br>
+makeshift, make the shift into making new shifts with position<br>
 the first lesson is always make moments to listen<br>
 in between the stimulus and response there is this decision<br>
 wholehearted Love and Soul living<br>
@@ -50,7 +50,7 @@ wishing to savor, the interconnectedness is never severed<br>
 the energy and emptiness goes on forever<br>
 it's all you've ever seen, and it is enough<br>
 sometimes holidays are the tough stuff<br>
-where ever you are at, it's the perfect time and place, to be looking up<br>
+wherever ever you are at, it's the perfect time and place, to be looking up<br>
 with grace and gratitude we offer blessings and tip our cup<br>
 
 ## About me
